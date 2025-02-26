@@ -5,10 +5,10 @@ A key aspect of this project is the real-time storage of collected data on Googl
 
 Additionally, the system includes three LEDs to indicate detection status:
 
-The green LED lights up for the "OK" state (distances greater than 30 cm).
-The red LED indicates "Collision" (distances less than 10 cm).
-The blue LED signals "Alert" (distances between 10 cm and 30 cm).
-Furthermore, a buzzer emits warning sounds:
+- The green LED lights up for the "OK" state (distances greater than 30 cm).
+- The red LED indicates "Collision" (distances less than 10 cm).
+- The blue LED signals "Alert" (distances between 10 cm and 30 cm).
 
-In the "Alert" state, it emits an intermittent sound.
-In the case of a "Collision," the sound becomes continuous and faster.
+Furthermore, a buzzer emits warning sounds:
+- In the "Alert" state, it emits an intermittent sound.
+- In the case of a "Collision," the sound becomes continuous and faster.
