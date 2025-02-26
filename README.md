@@ -1,0 +1,2 @@
+# Real-Time-Object-Detection-and-Classification-using-Raspberry-Pi-Pico-and-TinyML
+This project implements an intelligent object detection system using Raspberry Pi Pico WH, an ultrasonic sensor, and an LCD  display, utilizing TinyML for distance analysis and classification. The data collected is stored locally and on Google Sheets,  contributing to the training of a machine learning model for precise obstacle detection.
