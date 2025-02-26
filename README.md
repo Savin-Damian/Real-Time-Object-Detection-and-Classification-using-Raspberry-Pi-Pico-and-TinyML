@@ -40,7 +40,7 @@ Software:
 ## Demonstration Sequence Details
 
 - System Presentation
-  ![CircuitFInalFinal123](https://github.com/user-attachments/assets/aa6ba531-990a-4847-b791-a9b3ae0a860d)
+![CircuitFInalFinal123](https://github.com/user-attachments/assets/aa6ba531-990a-4847-b791-a9b3ae0a860d)
   
 - Physical Circuit
 ![475687350_3931644573755068_6428512334918054765_n](https://github.com/user-attachments/assets/62c09ae1-6894-4900-a08d-cde8824d1762)
