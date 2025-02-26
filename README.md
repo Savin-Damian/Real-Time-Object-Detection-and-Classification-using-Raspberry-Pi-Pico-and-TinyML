@@ -12,3 +12,8 @@ Additionally, the system includes three LEDs to indicate detection status:
 Furthermore, a buzzer emits warning sounds:
 - In the "Alert" state, it emits an intermittent sound.
 - In the case of a "Collision," the sound becomes continuous and faster.
+
+
+## Importance in the Embedded Systems Field
+
+Embedded systems are fundamental to the development of modern technologies, with applications in various fields such as robotics, industrial automation, and autonomous vehicles. By integrating TinyML, this project significantly enhances on-device data processing, reducing the need for a constant connection to a central server. This approach optimizes resource consumption and enables the system to operate in isolated environments or areas with limited network access.
