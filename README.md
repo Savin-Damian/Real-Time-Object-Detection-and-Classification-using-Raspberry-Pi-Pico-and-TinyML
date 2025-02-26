@@ -48,6 +48,8 @@ Software:
   
 - Model Accuracy
   
+  In the initial phase of implementation and development, we created a training dataset of approximately 250 instances. However, after doubling this number and generating a test dataset with over 500 instances, we achieved an accuracy of 98%.
+  
 ![Precizia](https://github.com/user-attachments/assets/b2f0fdf3-9475-406c-b591-0bae357210e1)
 
 - The Dataset Stored in Google Drive
