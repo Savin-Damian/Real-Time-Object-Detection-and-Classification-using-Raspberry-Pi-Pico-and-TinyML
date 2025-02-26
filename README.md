@@ -17,3 +17,22 @@ Furthermore, a buzzer emits warning sounds:
 ## Importance in the Embedded Systems Field
 
 Embedded systems are fundamental to the development of modern technologies, with applications in various fields such as robotics, industrial automation, and autonomous vehicles. By integrating TinyML, this project significantly enhances on-device data processing, reducing the need for a constant connection to a central server. This approach optimizes resource consumption and enables the system to operate in isolated environments or areas with limited network access.
+
+## Design
+
+Hardware:
+- Raspberry Pi Pico WH
+- HC-SR04 sensor
+- 1602A LCD with I2C interface
+- 3 LEDs (green, red, blue)
+- 220 Ohm resistors
+- Buzzer
+- Wires and Breadboard
+  
+Software:
+- Thonny – Integrated Development Environment (IDE) used for writing and testing Python code on the Raspberry Pi Pico WH.
+- MicroPython
+- TensorFlow and TensorFlow Lite – for developing and converting the machine learning model.
+- Scikit-learn – for data preprocessing and training the machine learning model.
+- Matplotlib – for visualizing model performance and data analysis.
+- Google Sheets API – for integrating and storing collected data in real time on Google Sheets.
