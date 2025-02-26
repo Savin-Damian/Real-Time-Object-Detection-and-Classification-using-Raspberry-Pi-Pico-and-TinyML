@@ -44,9 +44,12 @@ Software:
   
 - Physical Circuit
 ![475687350_3931644573755068_6428512334918054765_n](https://github.com/user-attachments/assets/62c09ae1-6894-4900-a08d-cde8824d1762)
+
   
 - Model Accuracy
+  
 ![Precizia](https://github.com/user-attachments/assets/b2f0fdf3-9475-406c-b591-0bae357210e1)
 
 - The Dataset Stored in Google Drive
+  
 ![Screenshot_6](https://github.com/user-attachments/assets/799e3902-e47a-45fe-9797-8073bd8e8d17)
